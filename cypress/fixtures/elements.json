@@ -1,0 +1,11 @@
+{
+    "earliest_btn":"[data-testid=\"earliest-button\"]",
+    "latest_btn": "[data-testid=\"latest-button\"]",
+    "first_date": ":nth-child(1) > .MuiCardContent-root > [data-testid=\"date\"]",
+    "search_box": ".MuiInputBase-input",
+    "search_text": "Padberg Inc",
+    "filtered_result":".MuiTypography-h5",
+    "earliest_date":"Fri, 31 Aug 2018 01:46:44 GMT",
+    "latest_date":"Fri, 31 Jul 2020 09:21:26 GMT"
+
+}
